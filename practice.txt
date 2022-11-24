@@ -1,0 +1,37 @@
+pseudo-class
+Dynamic pseudo-classes
+:link
+:visited
+:hover
+:active
+:focus
+
+UI element states pseudo-classes
+:enabled
+:disabled
+:checked
+
+Structural pseudo-classes
+:first-child
+:nth-child(n)
+:nth-last-child(n)
+:nth-of-type(n)
+:nth-last-of-type(n)
+:last-child
+:first-of-type
+:last-of-type
+:only-child
+:only-of-type
+:root
+:empty
+
+
+
+pseudo-element
+::before
+::after
+::first-letter
+::first-line
+
+Image Sprites
+Collection of image just to reduce server load
